@@ -20,8 +20,10 @@
 - SCPC(Samsung Collegiate Programming Cup), 2021 - 5등상
 
 - ACM-ICPC 2021 Seoul Regional First Round - 7th
+- ACM-ICPC 2021 Seoul Regional - 9th
   - team name : clopa
-  - scoreboard : http://static.icpckorea.net/2021/scoreboard_preliminary/
+  - scoreboard(1) : http://static.icpckorea.net/2021/scoreboard_preliminary/
+  - scoreboard(2) : http://static.icpckorea.net/2021/scoreboard_regional/
 
 ## 프로젝트
 - SPARCS@KAIST - taxi 개발중
