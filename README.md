@@ -6,6 +6,9 @@
 - c++, python
 - nodejs, react
 
+[![SolvedAC](http://mazassumnida.wtf/api/generate_badge?boj=geon6757)](https://solved.ac/geon6757)
+
+
 ## 수상
 - NYPC(Nexon Youth Programming Challenge), 2016 - 동상
 - KOI(Korea Olympiad in Informatics), 2016 - 금상
