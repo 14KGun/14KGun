@@ -6,7 +6,7 @@
 - c++, python
 - nodejs, react
 
-[![SolvedAC](http://mazassumnida.wtf/api/generate_badge?boj=geon6757)](https://solved.ac/geon6757)
+[![SolvedAC](http://mazassumnida.wtf/api/v2/generate_badge?boj=geon6757)](https://solved.ac/geon6757)
 
 
 ## 수상
