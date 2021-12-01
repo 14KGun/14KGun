@@ -28,5 +28,9 @@
   - scoreboard(1) : http://static.icpckorea.net/2021/scoreboard_preliminary/
   - scoreboard(2) : http://static.icpckorea.net/2021/scoreboard_regional/
 
+## 활동
+- 2020.09 ~ , SPARCS@KAIST
+- 2021.12 ~ , Samsung Software Membership
+
 ## 프로젝트
-- SPARCS@KAIST - taxi 개발중
+- 2021.03 ~ , SPARCS@KAIST - taxi 개발중
