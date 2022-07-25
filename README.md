@@ -41,4 +41,12 @@
 
 ## 프로젝트
 - 2020.07 ~ , 오일러OJ 개발
+  - front : https://github.com/EULER-BRAIN/EULER-OJ-front
+  - back/1 : https://github.com/EULER-BRAIN/EULER-OJ-back
+  - back/2 : https://github.com/EULER-BRAIN/EULER-OJ-scoring
 - 2021.03 ~ , SPARCS@KAIST - taxi 개발 중
+  - front : https://github.com/sparcs-kaist/taxi-front
+  - back : https://github.com/sparcs-kaist/taxi-back
+- 2022.07 ~ , 오일러EDU 개발
+  - front : https://github.com/EULER-BRAIN/EULER-EDU-front
+  - back : https://github.com/EULER-BRAIN/EULER-EDU-back
