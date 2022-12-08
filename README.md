@@ -41,11 +41,13 @@
 - 2022.09 ~ 2023.02 , NC소프트 NLP Center/검색기술실 내러티브팀 인턴
 
 ## 프로젝트
-- [2020.07 ~ , 오일러OJ](https://euleroj.io)
+- 2020.07 ~ , 오일러OJ
+  - [https://euleroj.io](https://euleroj.io)
   - front : https://github.com/EULER-BRAIN/EULER-OJ-front
   - back/1 : https://github.com/EULER-BRAIN/EULER-OJ-back
   - back/2 : https://github.com/EULER-BRAIN/EULER-OJ-scoring
-- [**2021.03 ~ , SPARCS@KAIST - taxi**](https://taxi.sparcs.org)
+- **2021.03 ~ , SPARCS@KAIST - taxi**
+  - [https://taxi.sparcs.org](https://taxi.sparcs.org)
   - front : https://github.com/sparcs-kaist/taxi-front
   - back : https://github.com/sparcs-kaist/taxi-back
 <!-- - 2022.07 ~ , 오일러EDU 개발
