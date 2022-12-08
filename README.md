@@ -4,6 +4,7 @@
 
 ## 기술스택
 - c++, python
+- pytorch
 - nodejs, react
 
 [![SolvedAC](http://mazassumnida.wtf/api/v2/generate_badge?boj=geon6757)](https://solved.ac/geon6757)
@@ -37,16 +38,16 @@
 - 2022.01 ~ 2022.02 , 삼성전자 동계 대학생 S/W 양성교육 코치
 - 2022.04 ~ 2022.05 , 삼성전자 Pro 알고리즘 멘토링 멘토
 - 2022.07 ~ 2022.08 , 삼성전자 하계 대학생 S/W 양성교육 코치
-- 2022.09 ~ 2023.02 , NC소프트 NLP Center/검색기술실 내러티브팀 산학 인턴
+- 2022.09 ~ 2023.02 , NC소프트 NLP Center/검색기술실 내러티브팀 인턴
 
 ## 프로젝트
-- 2020.07 ~ , 오일러OJ 개발
+- [2020.07 ~ , 오일러OJ](https://euleroj.io)
   - front : https://github.com/EULER-BRAIN/EULER-OJ-front
   - back/1 : https://github.com/EULER-BRAIN/EULER-OJ-back
   - back/2 : https://github.com/EULER-BRAIN/EULER-OJ-scoring
-- 2021.03 ~ , SPARCS@KAIST - taxi 개발 중
+- [**2021.03 ~ , SPARCS@KAIST - taxi**](https://taxi.sparcs.org)
   - front : https://github.com/sparcs-kaist/taxi-front
   - back : https://github.com/sparcs-kaist/taxi-back
-- 2022.07 ~ , 오일러EDU 개발
+<!-- - 2022.07 ~ , 오일러EDU 개발
   - front : https://github.com/EULER-BRAIN/EULER-EDU-front
-  - back : https://github.com/EULER-BRAIN/EULER-EDU-back
+  - back : https://github.com/EULER-BRAIN/EULER-EDU-back -->
