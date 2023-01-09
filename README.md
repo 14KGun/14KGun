@@ -51,9 +51,9 @@
   - [https://taxi.sparcs.org](https://taxi.sparcs.org)
   - front : https://github.com/sparcs-kaist/taxi-front
   - back : https://github.com/sparcs-kaist/taxi-back
-- \[CS372\] Classification of online post categories based on community tendencies
+- 2022.03 ~ 2022.06 , \[CS372\] Classification of online post categories based on community tendencies
   - Git : https://github.com/14KGun/CS372-Community-Category-Classification
-- \[CS270\] Halli Galli Auto-play Robot
+- 2022.03 ~ 2022.06 , \[CS270\] Halli Galli Auto-play Robot
   - Git : https://github.com/14KGun/CS270-Team9-Assignments
 <!-- - 2022.07 ~ , 오일러EDU 개발
   - front : https://github.com/EULER-BRAIN/EULER-EDU-front
