@@ -1,6 +1,8 @@
+<!--
 ## 학력
 - KAIST
   - 2019(입학) ~ 
+-->
 
 ## 기술스택
 - c++, python
@@ -9,7 +11,7 @@
 
 [![SolvedAC](http://mazassumnida.wtf/api/v2/generate_badge?boj=geon6757)](https://solved.ac/geon6757)
 
-
+<!--
 ## 수상
 - NYPC(Nexon Youth Programming Challenge), 2016 - 동상
 - KOI(Korea Olympiad in Informatics), 2016 - 금상(5th)
